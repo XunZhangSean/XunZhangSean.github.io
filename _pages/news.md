@@ -20,7 +20,7 @@ header: false
         <div class="timeline-date">2025.11</div>
         <p>
           I developed <strong>Diffusion-Inversion-Net (DIN)</strong>: An End-to-End Direct Probabilistic Framework for Characterizing Hydraulic Conductivities and Quantifying Uncertainty.
-          <br>Open source code: <a href="https://github.com/XunZhangMarcus/Diffusion-Inversion-Net">XunZhangMarcus/Diffusion-Inversion-Net</a>.
+          <br>Open source code: <a href="https://github.com/XunZhangSean/Diffusion-Inversion-Net">XunZhangSean/Diffusion-Inversion-Net</a>.
         </p>
         <details style="margin-top: 8px; cursor: pointer;">
           <summary style="font-weight: 500; color: #0066cc; font-size: 0.9em;">
@@ -45,7 +45,7 @@ header: false
       </article>
       <article class="timeline-item">
         <div class="timeline-date">2024.08</div>
-        <p>&nbsp;🎉🎉My <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR036893#main1">WRR paper</a> is now online. Click to view. Open source <a href="https://github.com/XunZhangMarcus/AEdiffuison_surrogate_DA_inversion">code</a></p>
+        <p>&nbsp;🎉🎉My <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR036893#main1">WRR paper</a> is now online. Click to view. Open source <a href="https://github.com/XunZhangSean/AEdiffuison_surrogate_DA_inversion">code</a></p>
       </article>
       <article class="timeline-item">
         <div class="timeline-date">2024.08</div>
