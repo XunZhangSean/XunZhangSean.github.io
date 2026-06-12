@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Xun Zhang(张洵)"
-description              : "Master student at Tongji University"
-repository               : "XunZhangSean/Xun_homepage.github.io"
+description              : "Incoming Ph.D. student at Cornell University"
+repository               : "XunZhangSean/XunZhangSean.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xun Zhang(张洵)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tongji University"
+  bio              : "Cornell University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "2232324@tongji.edu.cn"
+  email            : "xz2237@cornell.edu"
   researchgate     : "https://www.researchgate.net/profile/Xun-Zhang-43"
   uri              :
   bitbucket        :

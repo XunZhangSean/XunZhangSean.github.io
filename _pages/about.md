@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="hero-panel about-hero">
-  <p class="hero-eyebrow">Research Assistant · Hydrogeology & Scientific Machine Learning</p>
+  <p class="hero-eyebrow">Incoming Ph.D. Student · Civil and Environmental Engineering</p>
   <h1>About me</h1>
-  <p>Hello there! I'm Sean (Xun Zhang), a graduate of the College of Civil Engineering at Tongji University (June 2025), and currently a Research Assistant in the same department.</p>
-  <p>My academic journey began with a Bachelor's degree in Hydraulic Engineering from Northwest A&F University, where I studied hydraulic engineering systems and their interactions with the environment. During my master's studies, I found a creative intersection between data science and hydrogeology. My research focuses on <strong>groundwater flow and solute transport modeling</strong>, especially deep learning-based parameterization methods (DLPMs) and surrogate models for predicting groundwater solute transport.</p>
-  <p>I plan to pursue a PhD degree in the near future and welcome discussions, collaborations, and research opportunities.</p>
+  <p>Hello there! I am Xun (Sean) Zhang, an incoming Ph.D. student in Civil and Environmental Engineering at Cornell University.</p>
+  <p>Before joining Cornell, I received my master's degree from the <a href="https://geohyd.tongji.edu.cn/index.htm">Department of Geological and Hydraulic Engineering, College of Civil Engineering</a> at <a href="https://www.tongji.edu.cn/">Tongji University</a> in June 2025. After graduation, I continued to work in the same department as a Research Assistant for one year. I earned my bachelor's degree in <a href="https://sjxy.nwsuaf.edu.cn/">Hydraulic and Hydropower Engineering</a> from <a href="https://www.nwafu.edu.cn/">Northwest A&amp;F University</a>. My academic training has shaped a broad interest in hydrogeology, hydrology, computational modeling, and data-driven methods for understanding subsurface flow and transport processes.</p>
+  <p>I look forward to continuing my research at Cornell and welcome discussions, collaborations, and research opportunities.</p>
   <div class="hero-actions">
-    <a class="highlight-chip" href="mailto:2232324@tongji.edu.cn">E-mail: 2232324[at]tongji[dot]edu[dot]cn</a>
+    <a class="highlight-chip" href="mailto:xz2237@cornell.edu">E-mail: xz2237@cornell.edu</a>
     <span class="highlight-chip highlight-chip--soft">Open to collaboration</span>
   </div>
 </div>
