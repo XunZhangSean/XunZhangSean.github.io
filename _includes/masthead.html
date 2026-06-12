@@ -1,12 +1,15 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+      <nav id="site-nav" class="greedy-nav site-nav" aria-label="Primary navigation">
+        <a class="site-brand" href="{{ '/' | relative_url }}">
+          <img class="site-brand__logo" src="{{ '/CEE%20logo.png' | relative_url }}" alt="Cornell Duffield Engineering School of Civil and Environmental Engineering">
+        </a>
         <button class="hidden" type="button" aria-label="Toggle navigation"><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ "/" | relative_url }}">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a {% if page.url == "/" %}class="is-active"{% endif %} href="{{ '/' | relative_url }}">Xun Zhang</a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a {% if page.url == link.url and link.url != "/" %}class="is-active"{% endif %} href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
