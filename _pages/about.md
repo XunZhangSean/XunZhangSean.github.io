@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="hero-panel about-hero">
-  <p class="hero-eyebrow">Incoming Ph.D. Student · Civil and Environmental Engineering</p>
   <h1>About me</h1>
   <p>Hello there! I am Xun (Sean) Zhang, an incoming Ph.D. student in Civil and Environmental Engineering at Cornell University.</p>
   <p>Before joining Cornell, I received my master's degree from the <a href="https://geohyd.tongji.edu.cn/index.htm">Department of Geological and Hydraulic Engineering, College of Civil Engineering</a> at <a href="https://www.tongji.edu.cn/">Tongji University</a> in June 2025. After graduation, I continued to work in the same department as a Research Assistant for one year. I earned my bachelor's degree in <a href="https://sjxy.nwsuaf.edu.cn/">Hydraulic and Hydropower Engineering</a> from <a href="https://www.nwafu.edu.cn/">Northwest A&amp;F University</a>. My academic training has shaped a broad interest in hydrogeology, hydrology, computational modeling, and data-driven methods for understanding subsurface flow and transport processes.</p>
