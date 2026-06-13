@@ -15,14 +15,17 @@
   </div>
 
   <div class="profile-links">
-    {% if author.email %}
-      <a href="mailto:{{ author.email }}">Email</a>
-    {% endif %}
     {% if author.researchgate %}
       <a href="{{ author.researchgate }}">ResearchGate</a>
     {% endif %}
     {% if author.googlescholar %}
       <a href="{{ author.googlescholar }}">Google Scholar</a>
+    {% endif %}
+    {% if author.linkedin %}
+      <a href="{{ author.linkedin }}">LinkedIn</a>
+    {% endif %}
+    {% if author.github %}
+      <a href="{{ author.github }}">GitHub</a>
     {% endif %}
   </div>
 </div>

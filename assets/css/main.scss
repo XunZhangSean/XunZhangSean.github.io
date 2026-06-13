@@ -492,9 +492,10 @@ body {
 }
 
 .masthead__inner-wrap {
-    max-width: 1180px;
-    min-height: 72px;
-    padding: 0 28px;
+    width: 100%;
+    max-width: none;
+    min-height: 118px;
+    padding: 0 16px 0 10px;
     display: flex;
     align-items: center;
     font-family: $global-font-family;
@@ -508,12 +509,12 @@ body {
     min-width: 0;
     display: flex;
     align-items: center;
-    gap: 26px;
+    gap: 14px;
     background: transparent;
 }
 
 .site-brand {
-    min-width: 258px;
+    min-width: 504px;
     flex: 0 0 auto;
     display: inline-flex;
     align-items: center;
@@ -524,7 +525,7 @@ body {
 
 .site-brand__logo {
     display: block;
-    width: 252px;
+    width: 504px;
     height: auto;
     border: 0;
     box-shadow: none;
@@ -540,9 +541,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 3px;
+    gap: 1px;
     width: auto;
     clear: none;
+    flex-wrap: nowrap;
 }
 
 .greedy-nav .visible-links li {
@@ -563,12 +565,12 @@ body {
 .greedy-nav .visible-links a {
     display: inline-flex;
     align-items: center;
-    min-height: 2.35rem;
+    min-height: 2.45rem;
     margin: 0;
-    padding: .35rem .72rem;
+    padding: .36rem .46rem;
     border-radius: 999px;
     color: #354253;
-    font-size: .95rem;
+    font-size: 1rem;
     font-weight: 600;
     line-height: 1.35;
     text-decoration: none;
@@ -600,7 +602,7 @@ body {
     margin: 0 auto;
     padding: 44px 28px 70px;
     display: grid;
-    grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+    grid-template-columns: minmax(220px, 300px) minmax(0, 1fr);
     gap: 42px;
     color: var(--home-ink);
 }
@@ -721,7 +723,15 @@ body {
     box-shadow: none;
 }
 
-.home-page .hero-panel h1,
+.home-page .hero-panel h1 {
+    margin: 0 0 14px;
+    padding: 0;
+    border-bottom: 0;
+    color: var(--home-brand-dark);
+    font-size: 2rem;
+    line-height: 1.2;
+}
+
 .home-page .section-block h2 {
     margin: 0 0 14px;
     padding: 0;
@@ -942,7 +952,7 @@ body {
     }
 
     .site-brand__logo {
-        width: 252px;
+        width: min(504px, calc(100vw - 56px));
         max-width: calc(100vw - 56px);
     }
 

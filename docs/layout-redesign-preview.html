@@ -57,17 +57,18 @@
       }
 
       .site-nav {
-        max-width: 1180px;
-        min-height: 72px;
+        width: 100%;
+        max-width: none;
+        min-height: 118px;
         margin: 0 auto;
-        padding: 0 28px;
+        padding: 0 16px 0 10px;
         display: flex;
         align-items: center;
-        gap: 26px;
+        gap: 14px;
       }
 
       .brand-block {
-        min-width: 258px;
+        min-width: 504px;
         flex: 0 0 auto;
         display: inline-flex;
         align-items: center;
@@ -77,7 +78,7 @@
 
       .brand-logo {
         display: block;
-        width: 252px;
+        width: 504px;
         height: auto;
         border: 0;
         box-shadow: none;
@@ -89,7 +90,8 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 3px;
+        flex-wrap: nowrap;
+        gap: 1px;
         list-style: none;
         padding: 0;
         margin: 0;
@@ -98,11 +100,11 @@
       .nav-links a {
         display: inline-flex;
         align-items: center;
-        min-height: 2.35rem;
-        padding: .35rem .72rem;
+        min-height: 2.45rem;
+        padding: .36rem .46rem;
         border-radius: 999px;
         color: #354253;
-        font-size: .95rem;
+        font-size: 1rem;
         font-weight: 600;
         text-decoration: none;
         white-space: nowrap;
@@ -128,7 +130,7 @@
 
       .about-layout {
         display: grid;
-        grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+        grid-template-columns: minmax(220px, 300px) minmax(0, 1fr);
         gap: 42px;
         align-items: start;
       }
@@ -190,7 +192,13 @@
         border-bottom: 1px solid var(--line);
       }
 
-      .hero-panel h1,
+      .hero-panel h1 {
+        margin: 0 0 14px;
+        color: var(--brand-dark);
+        font-size: 2rem;
+        line-height: 1.2;
+      }
+
       .section-block h2 {
         margin: 0 0 14px;
         color: var(--brand-dark);
@@ -427,6 +435,10 @@
           font-size: .9rem;
         }
 
+        .brand-logo {
+          width: min(504px, calc(100vw - 56px));
+        }
+
         .about-layout {
           grid-template-columns: 1fr;
           gap: 28px;
@@ -487,9 +499,10 @@
           <h2>Xun Zhang</h2>
           <p>Cornell University</p>
           <div class="profile-links">
-            <a href="mailto:xz2237@cornell.edu">Email</a>
             <a href="https://www.researchgate.net/profile/Xun-Zhang-43">ResearchGate</a>
             <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID">Google Scholar</a>
+            <a href="https://www.linkedin.com/in/xun-zhang-1831952a4/">LinkedIn</a>
+            <a href="https://github.com/XunZhangSean">GitHub</a>
           </div>
         </aside>
 
