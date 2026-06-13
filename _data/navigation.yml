@@ -20,6 +20,10 @@ main:
     title: "Honors and Awards"
     url: "/honors/"
 
+  - key: failure_cv
+    title: "Failure CV"
+    url: "/failure-cv/"
+
   - key: education
     title: "Educations"
     url: "/education/"

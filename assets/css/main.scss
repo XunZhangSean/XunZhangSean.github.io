@@ -384,6 +384,59 @@ h1:before, .anchor:before {
     border-bottom: 0;
 }
 
+.failure-cv-page .content-card h2 {
+    margin-top: 0;
+}
+
+.failure-cv-intro {
+    max-width: 58rem;
+    color: #4f5b6b;
+    line-height: 1.7;
+}
+
+.failure-cv-list {
+    display: grid;
+    gap: 1.25rem;
+    margin-top: 1.5rem;
+}
+
+.failure-cv-section {
+    padding: 1rem 0 1rem 1rem;
+    border-left: 3px solid rgba(151, 27, 47, .35);
+}
+
+.failure-cv-section h3 {
+    margin-top: 0;
+    color: #172033;
+}
+
+.failure-cv-empty {
+    margin: 0;
+    padding: .85rem 1rem;
+    border: 1px solid rgba(0,0,0,.06);
+    border-radius: .75rem;
+    color: #657085;
+    background: #f7f8fa;
+}
+
+.failure-cv-entry {
+    margin-top: .85rem;
+    padding: .95rem 1rem;
+    border: 1px solid rgba(23,32,51,.08);
+    border-radius: .75rem;
+    background: #fff;
+}
+
+.failure-cv-entry__date {
+    color: #00369f;
+    font-weight: 700;
+}
+
+.failure-cv-entry__outcome {
+    margin: .35rem 0 0;
+    color: #4f5b6b;
+}
+
 .split-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
