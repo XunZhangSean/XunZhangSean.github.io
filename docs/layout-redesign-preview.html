@@ -59,17 +59,18 @@
       .site-nav {
         width: 100%;
         max-width: none;
-        min-height: 118px;
+        min-height: 176px;
         margin: 0 auto;
-        padding: 0 16px 0 10px;
+        padding: 18px 16px 16px 10px;
         display: flex;
         align-items: center;
-        gap: 14px;
+        flex-wrap: wrap;
+        gap: 12px 14px;
       }
 
       .brand-block {
-        min-width: 504px;
-        flex: 0 0 auto;
+        min-width: 0;
+        flex: 0 0 100%;
         display: inline-flex;
         align-items: center;
         text-decoration: none;
@@ -78,7 +79,7 @@
 
       .brand-logo {
         display: block;
-        width: 504px;
+        width: min(640px, calc(100vw - 56px));
         height: auto;
         border: 0;
         box-shadow: none;
@@ -86,7 +87,7 @@
       }
 
       .nav-links {
-        flex: 1;
+        flex: 0 0 100%;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -104,7 +105,7 @@
         padding: .36rem .46rem;
         border-radius: 999px;
         color: #354253;
-        font-size: 1rem;
+        font-size: 1.18rem;
         font-weight: 600;
         text-decoration: none;
         white-space: nowrap;
@@ -432,11 +433,11 @@
         .nav-links a {
           min-height: 2rem;
           padding: .28rem .58rem;
-          font-size: .9rem;
+          font-size: 1rem;
         }
 
         .brand-logo {
-          width: min(504px, calc(100vw - 56px));
+          width: min(420px, calc(100vw - 56px));
         }
 
         .about-layout {
