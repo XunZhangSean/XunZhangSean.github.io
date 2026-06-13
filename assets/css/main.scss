@@ -526,7 +526,7 @@ body {
 
 .site-brand__logo {
     display: block;
-    width: min(640px, calc(100vw - 56px));
+    width: min(564px, calc(100vw - 56px));
     height: auto;
     border: 0;
     box-shadow: none;
@@ -542,7 +542,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 1px;
+    column-gap: 24px;
+    row-gap: 10px;
     width: auto;
     clear: none;
     flex-wrap: nowrap;
@@ -953,7 +954,7 @@ body {
     }
 
     .site-brand__logo {
-        width: min(420px, calc(100vw - 56px));
+        width: min(344px, calc(100vw - 56px));
         max-width: calc(100vw - 56px);
     }
 
