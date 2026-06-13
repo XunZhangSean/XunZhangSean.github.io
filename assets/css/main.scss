@@ -599,6 +599,32 @@ body {
     display: none !important;
 }
 
+.sub-page #main {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 36px 28px 70px;
+}
+
+.sub-page .page {
+    float: none;
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.sub-page .page__inner-wrap,
+.sub-page .page__content {
+    float: none;
+    width: 100%;
+}
+
+.sub-page .page-section {
+    width: 100%;
+    max-width: 1080px;
+    margin: 2rem auto 0;
+}
+
 .home-page #main {
     max-width: 1180px;
     margin: 0 auto;

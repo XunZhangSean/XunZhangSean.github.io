@@ -11,6 +11,7 @@ header: false
     {% capture honors_block %}
 ### 🎖 Honors and Awards
     
+- *2026* Cornell PhD Fellowship, Cornell University (one of four annual recipients)
 - *2025* Best Dissertation Award, Tongji University 
 - *2025* Outstanding Master's Graduates of Tongji University
 - *2024* Outstanding Graduate Student of Tongji University

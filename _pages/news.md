@@ -10,6 +10,10 @@ header: false
     <h2>🔥 Latest Updates</h2>
     <div class="news-timeline">
       <article class="timeline-item">
+        <div class="timeline-date">2026.06.03</div>
+        <p>I was awarded a Cornell Fellowship by the Field of Civil and Environmental Engineering at Cornell University！</p>
+      </article>
+      <article class="timeline-item">
         <div class="timeline-date">2025.12</div>
         <p>
           I co-developed <strong>PIS</strong> with my collaborator Weijie Yang for broad physical parameter estimation. This work proposes a unified perspective for PDE-constrained parameter estimation problems: an end-to-end solver based on diffusion models. 
