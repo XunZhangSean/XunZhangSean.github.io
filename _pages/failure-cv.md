@@ -9,97 +9,53 @@ header: false
 <section class="page-section failure-cv-page">
   <div class="content-card">
     <h2>Failure CV</h2>
-    <p class="failure-cv-intro">This page records selected academic rejections and unsuccessful applications. It is inspired by the idea of a CV of failures and is intended to provide a more transparent view of the academic process behind visible achievements.</p>
+    <p class="failure-cv-intro">This is my CV of failure, inspired by the <a href="https://doi.org/10.1038/nj7322-467a">article in Nature</a> by <a href="https://melaniestefan.net/">Melanie I. Stefan</a>. Several other examples can be found here: <a href="https://jbhuang0604.github.io/Huang_CV_Failure.pdf">Jia-Bin Huang</a>, <a href="https://johanneshaushofer.com/Johannes_Haushofer_CV_of_Failures.pdf">Johannes Haushofer</a>, <a href="https://www.metafilter.com/159016/The-history-of-my-stupidity-would-fill-many-volumes">Alexandra Roshchina</a>, <a href="https://everydayscientist.com/CV/sjl_CV-failures.pdf">Samuel Joseph Lord</a>, and <a href="https://media.wix.com/ugd/c7aa4c_95ef1a83efb24c58883e653e0c4b2e6b.pdf">Sara Rywe</a>.</p>
 
-    <div class="failure-cv-list">
-      <section class="failure-cv-section">
-        <h3>Degree Programs I Failed to Get Into</h3>
+    <section class="failure-cv-section">
+      <h3>Degree programs I failed to get into</h3>
 
-        <div class="failure-cv-year-group">
-          <h4>2025</h4>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2025 · Princeton University</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Civil and Environmental Engineering (CEE).<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2025 · University of Oxford</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Doctor of Philosophy in Geography and the Environment.<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2025 · Massachusetts Institute of Technology</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Civil and Environmental Engineering (CEE).<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2025 · Stanford University</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Earth and Environmental Engineering, Earth System Science (ESS).<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2025 · University of Texas at Austin</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Civil Engineering, Environmental and Water Resources Engineering.<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2025 · Columbia University</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Earth and Environmental Engineering (EEE).<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2025 · University of California, Berkeley</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Civil and Environmental Engineering (CEE).<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2025 · Tsinghua University</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Department of Hydraulic Engineering.<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-        </div>
+      <div class="failure-cv-year-group">
+        <h4>2025</h4>
+        <ul>
+          <li>PhD in Civil and Environmental Engineering, <em>Princeton University</em>.</li>
+          <li>DPhil in Geography and the Environment, <em>University of Oxford</em>.</li>
+          <li>PhD in Civil and Environmental Engineering, <em>Massachusetts Institute of Technology</em>.</li>
+          <li>PhD in Earth System Science, <em>Stanford University</em>.</li>
+          <li>PhD in Civil Engineering, Environmental and Water Resources Engineering, <em>University of Texas at Austin</em>.</li>
+          <li>PhD in Earth and Environmental Engineering, <em>Columbia University</em>.</li>
+          <li>PhD in Civil and Environmental Engineering, <em>University of California, Berkeley</em>.</li>
+          <li>PhD in Hydraulic Engineering, <em>Tsinghua University</em>.</li>
+        </ul>
+      </div>
 
-        <div class="failure-cv-year-group">
-          <h4>2026</h4>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2026 · University of Pennsylvania</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Mechanical Engineering and Applied Mechanics (MEAM).<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2026 · Stanford University</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Civil and Environmental Engineering (CEE).<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2026 · Princeton University</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Civil and Environmental Engineering (CEE).<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2026 · University of Oxford</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Doctor of Philosophy in Geography and the Environment.<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2026 · ETH Zurich / Eawag</div>
-            <p class="failure-cv-entry__outcome"><strong>Applications:</strong> Nine Ph.D. positions.<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-          <article class="failure-cv-entry">
-            <div class="failure-cv-entry__date">2026 · University of Cambridge</div>
-            <p class="failure-cv-entry__outcome"><strong>Program:</strong> Civil Engineering.<br><strong>Outcome:</strong> Rejected.</p>
-          </article>
-        </div>
-      </section>
+      <div class="failure-cv-year-group">
+        <h4>2026</h4>
+        <ul>
+          <li>PhD in Mechanical Engineering and Applied Mechanics, <em>University of Pennsylvania</em>.</li>
+          <li>PhD in Civil and Environmental Engineering, <em>Stanford University</em>.</li>
+          <li>PhD in Civil and Environmental Engineering, <em>Princeton University</em>.</li>
+          <li>DPhil in Geography and the Environment, <em>University of Oxford</em>.</li>
+          <li>Nine PhD position applications, <em>ETH Zurich / Eawag</em>.</li>
+          <li>PhD in Civil Engineering, <em>University of Cambridge</em>.</li>
+        </ul>
+      </div>
+    </section>
 
-      <section class="failure-cv-section">
-        <h3>Paper Submissions Rejected</h3>
-        <article class="failure-cv-entry">
-          <div class="failure-cv-entry__date">Geophysical Research Letters</div>
-          <p class="failure-cv-entry__outcome"><strong>Outcome:</strong> Rejected once.</p>
-        </article>
-        <article class="failure-cv-entry">
-          <div class="failure-cv-entry__date">International Conference on Machine Learning (ICML)</div>
-          <p class="failure-cv-entry__outcome"><strong>Outcome:</strong> Rejected once.</p>
-        </article>
-        <article class="failure-cv-entry">
-          <div class="failure-cv-entry__date">Journal of Hydrology</div>
-          <p class="failure-cv-entry__outcome"><strong>Outcome:</strong> Rejected once.</p>
-        </article>
-      </section>
+    <section class="failure-cv-section">
+      <h3>Paper submissions rejected</h3>
+      <ul>
+        <li>2025, Geophysical Research Letters ×1.</li>
+        <li>2026, International Conference on Machine Learning (ICML) ×1.</li>
+        <li>2026, Journal of Hydrology ×1.</li>
+      </ul>
+    </section>
 
-      <section class="failure-cv-section">
-        <h3>Awards and Scholarships I Failed to Get</h3>
-        <p class="failure-cv-empty">Selected entries will be added after I decide which rejections to make public.</p>
-      </section>
-    </div>
+    <section class="failure-cv-section">
+      <h3>Awards and scholarships I failed to get</h3>
+      <ul>
+        <li>2025, Knight-Hennessy Scholars Program.</li>
+        <li>2026, ETH AI Center Doctoral Fellowships.</li>
+      </ul>
+    </section>
   </div>
 </section>

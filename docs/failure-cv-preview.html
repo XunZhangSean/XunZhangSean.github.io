@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Failure CV Preview</title>
+    <style>
+      :root {
+        --brand: #a4122f;
+        --ink: #172033;
+        --muted: #5f6b7a;
+        --line: #dfe6ee;
+        --link: #145db5;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        color: var(--ink);
+        background: #fff;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.55;
+      }
+
+      a {
+        color: var(--link);
+        text-decoration-thickness: 1px;
+        text-underline-offset: 3px;
+      }
+
+      .site-topbar {
+        border-top: 3px solid var(--brand);
+        border-bottom: 1px solid var(--line);
+        background: #fff;
+      }
+
+      .site-nav {
+        width: 100%;
+        min-height: 176px;
+        padding: 18px 16px 16px 10px;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 12px 14px;
+      }
+
+      .brand-block {
+        flex: 0 0 100%;
+        display: inline-flex;
+        align-items: center;
+        text-decoration: none;
+      }
+
+      .brand-logo {
+        display: block;
+        width: min(564px, calc(100vw - 56px));
+        height: auto;
+        border: 0;
+      }
+
+      .nav-links {
+        flex: 0 0 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 24px;
+        row-gap: 10px;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      .nav-links a {
+        display: inline-flex;
+        align-items: center;
+        min-height: 2.45rem;
+        padding: .36rem .46rem;
+        border-radius: 999px;
+        color: #354253;
+        font-size: 1.18rem;
+        font-weight: 600;
+        text-decoration: none;
+        white-space: nowrap;
+      }
+
+      .nav-links .is-active {
+        color: #fff;
+        background: var(--brand);
+      }
+
+      .page-shell {
+        width: min(1080px, calc(100vw - 52px));
+        margin: 0 auto;
+        padding: 44px 0 72px;
+      }
+
+      .failure-document {
+        max-width: 840px;
+        margin: 0 auto;
+        color: #111827;
+      }
+
+      .failure-document h1 {
+        margin: 0 0 .7rem;
+        font-size: 2.35rem;
+        line-height: 1.15;
+        letter-spacing: 0;
+      }
+
+      .failure-note {
+        margin: 0 0 2rem;
+        color: #374151;
+        line-height: 1.7;
+      }
+
+      .failure-note a {
+        font-weight: 600;
+      }
+
+      .failure-section {
+        margin-top: 2rem;
+      }
+
+      .failure-section h2 {
+        margin: 0 0 .65rem;
+        padding-bottom: .35rem;
+        border-bottom: 1px solid var(--line);
+        font-size: 1.35rem;
+        line-height: 1.25;
+      }
+
+      .failure-year {
+        margin-top: 1rem;
+      }
+
+      .failure-year h3 {
+        margin: 0 0 .35rem;
+        color: var(--brand);
+        font-size: 1rem;
+        line-height: 1.35;
+      }
+
+      .failure-year ul,
+      .failure-section ul {
+        margin: 0;
+        padding-left: 1.25rem;
+      }
+
+      .failure-year li,
+      .failure-section li {
+        margin: .28rem 0;
+      }
+
+      @media (max-width: 860px) {
+        .site-nav {
+          min-height: auto;
+          align-items: flex-start;
+          flex-direction: column;
+          padding-top: 14px;
+          padding-bottom: 14px;
+          gap: 12px;
+        }
+
+        .brand-logo {
+          width: min(344px, calc(100vw - 56px));
+        }
+
+        .nav-links {
+          justify-content: flex-start;
+        }
+
+        .nav-links a {
+          min-height: 2rem;
+          padding: .28rem .58rem;
+          font-size: 1rem;
+        }
+
+        .page-shell {
+          padding-top: 34px;
+        }
+
+        .failure-document h1 {
+          font-size: 2rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-topbar">
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a class="brand-block" href="#">
+          <img class="brand-logo" src="../CEE%20logo.png" alt="Cornell Duffield Engineering School of Civil and Environmental Engineering">
+        </a>
+        <ul class="nav-links">
+          <li><a href="#">Xun Zhang</a></li>
+          <li><a href="#">About Me</a></li>
+          <li><a href="#">News</a></li>
+          <li><a href="#">Publications and Conferences</a></li>
+          <li><a href="#">Hydro90</a></li>
+          <li><a href="#">Honors and Awards</a></li>
+          <li><a class="is-active" href="#">Failure CV</a></li>
+          <li><a href="#">Educations</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="page-shell">
+      <article class="failure-document">
+        <h1>Failure CV</h1>
+        <p class="failure-note">This is my CV of failure, inspired by the <a href="https://doi.org/10.1038/nj7322-467a">article in Nature</a> by <a href="https://melaniestefan.net/">Melanie I. Stefan</a>. Several other examples can be found here: <a href="https://jbhuang0604.github.io/Huang_CV_Failure.pdf">Jia-Bin Huang</a>, <a href="https://johanneshaushofer.com/Johannes_Haushofer_CV_of_Failures.pdf">Johannes Haushofer</a>, <a href="https://www.metafilter.com/159016/The-history-of-my-stupidity-would-fill-many-volumes">Alexandra Roshchina</a>, <a href="https://everydayscientist.com/CV/sjl_CV-failures.pdf">Samuel Joseph Lord</a>, and <a href="https://media.wix.com/ugd/c7aa4c_95ef1a83efb24c58883e653e0c4b2e6b.pdf">Sara Rywe</a>.</p>
+
+        <section class="failure-section">
+          <h2>Degree programs I failed to get into</h2>
+
+          <div class="failure-year">
+            <h3>2025</h3>
+            <ul>
+              <li>PhD in Civil and Environmental Engineering, <em>Princeton University</em>.</li>
+              <li>DPhil in Geography and the Environment, <em>University of Oxford</em>.</li>
+              <li>PhD in Civil and Environmental Engineering, <em>Massachusetts Institute of Technology</em>.</li>
+              <li>PhD in Earth System Science, <em>Stanford University</em>.</li>
+              <li>PhD in Civil Engineering, Environmental and Water Resources Engineering, <em>University of Texas at Austin</em>.</li>
+              <li>PhD in Earth and Environmental Engineering, <em>Columbia University</em>.</li>
+              <li>PhD in Civil and Environmental Engineering, <em>University of California, Berkeley</em>.</li>
+              <li>PhD in Hydraulic Engineering, <em>Tsinghua University</em>.</li>
+            </ul>
+          </div>
+
+          <div class="failure-year">
+            <h3>2026</h3>
+            <ul>
+              <li>PhD in Mechanical Engineering and Applied Mechanics, <em>University of Pennsylvania</em>.</li>
+              <li>PhD in Civil and Environmental Engineering, <em>Stanford University</em>.</li>
+              <li>PhD in Civil and Environmental Engineering, <em>Princeton University</em>.</li>
+              <li>DPhil in Geography and the Environment, <em>University of Oxford</em>.</li>
+              <li>Nine PhD position applications, <em>ETH Zurich / Eawag</em>.</li>
+              <li>PhD in Civil Engineering, <em>University of Cambridge</em>.</li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="failure-section">
+          <h2>Paper submissions rejected</h2>
+          <ul>
+            <li>2025, Geophysical Research Letters ×1.</li>
+            <li>2026, International Conference on Machine Learning (ICML) ×1.</li>
+            <li>2026, Journal of Hydrology ×1.</li>
+          </ul>
+        </section>
+
+        <section class="failure-section">
+          <h2>Awards and scholarships I failed to get</h2>
+          <ul>
+            <li>2025, Knight-Hennessy Scholars Program.</li>
+            <li>2026, ETH AI Center Doctoral Fellowships.</li>
+          </ul>
+        </section>
+      </article>
+    </main>
+  </body>
+</html>
