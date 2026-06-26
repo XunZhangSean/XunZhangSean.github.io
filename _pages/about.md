@@ -66,6 +66,14 @@ redirect_from:
 
 </section>
 
+<section class="section-block academic-service">
+  <h2>Academic Service</h2>
+  <details class="interest-details">
+    <summary>Journal reviewer</summary>
+    <p>Reviewer for <em>Hydrogeology Journal</em>, <em>Journal of Hydrology</em>, and <em>Water Resources Research</em>.</p>
+  </details>
+</section>
+
 <section class="news-latest">
   <div class="news-heading">
     <h2>News (latest)</h2>
