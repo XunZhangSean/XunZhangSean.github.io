@@ -1005,6 +1005,14 @@ body {
     border-bottom: 0;
 }
 
+.home-page .site-updated {
+    margin: 1rem 0 0;
+    color: var(--home-muted);
+    font-size: .82rem;
+    line-height: 1.4;
+    text-align: right;
+}
+
 .home-page .news-date {
     color: var(--home-brand);
     font-size: .92rem;

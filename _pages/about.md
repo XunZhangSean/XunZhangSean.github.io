@@ -100,9 +100,6 @@ redirect_from:
         </details>
       </div>
     </article>
-    <article class="news-item">
-      <div class="news-date">2025.07</div>
-      <p class="news-copy">Our collaborative paper on remote sensing data and carbon sources/sinks was published in Remote Sensing. My <a href="https://doi.org/10.3390/rs17142475">third paper</a> is now online. Click to view.</p>
-    </article>
   </div>
+  <p class="site-updated">Last updated: June 30, 2026</p>
 </section>
