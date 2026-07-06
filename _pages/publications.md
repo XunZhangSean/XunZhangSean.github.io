@@ -45,7 +45,7 @@ header: false
         <p>[8] W. Yang, <strong>X. Zhang</strong>*, S. Jiang*, Dynamic Operator-Guided Flow Matching: A Generative Physical Inverse Solver for Arbitrary Sparse Observations, Submitted to <strong><em>Machine Learning: Science and Technology</em></strong>, 2026.</p>
       </article>
       <article class="publication-card">
-        <p>[9] W. Yang, <strong>X. Zhang</strong>*, S. Jiang*, Beyond: Sobolev-Kinematic Flow Matching for Extreme Sparse Physical Inversion, Submitted to <strong><em>NIPS 2026</em></strong>.</p>
+        <p>[9] W. Yang, <strong>X. Zhang</strong>*, S. Jiang*, Beyond L<sub>2</sub>: Sobolev-Kinematic Flow Matching for Extreme Sparse Physical Inversion, Submitted to <strong><em>NIPS 2026</em></strong>.</p>
       </article>
       <article class="publication-card">
         <p>[10] Yang, Q., Qiu, S., Li, B., Shan, X., Feng, J., Zhou, S., Zhou, X., Xing, T., Guo, J., Dong, X., Liu, G., Liu, X., Pu, H., Deng, Q., <strong>X. Zhang</strong>, Xiang, Z., Qian, H., Yan, Y., Xu, Y., Lei, N., Jia, T., Shan, B., &amp; De Michele, C., HydroAgent: Formalizing Forecaster Expertise into Skill-Orchestrated Flood Forecasting Workflows. Submitted to <strong><em>AGU Advances</em></strong>, 2026.</p>
