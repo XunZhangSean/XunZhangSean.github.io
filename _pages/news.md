@@ -17,7 +17,7 @@ header: false
         <div class="timeline-date">2025.12</div>
         <p>
           I co-developed <strong>PIS</strong> with my collaborator Weijie Yang for broad physical parameter estimation. This work proposes a unified perspective for PDE-constrained parameter estimation problems: an end-to-end solver based on diffusion models. 
-          <a href="https://doi.org/10.13140/RG.2.2.23577.68963">[View Paper]</a>
+          <a href="https://arxiv.org/abs/2512.13732">[View Paper]</a>
         </p>
       </article>
       <article class="timeline-item">
@@ -45,11 +45,11 @@ header: false
       </article>
       <article class="timeline-item">
         <div class="timeline-date">2025.07</div>
-        <p>Our collaborative paper on remote sensing data and carbon sources/sinks was published in Remote Sensing. My <a href="https://doi.org/10.3390/rs17142475">third paper</a> is now online. Click to view.</p>
+        <p>Our collaborative paper on remote sensing data and carbon sources/sinks, <a href="https://doi.org/10.3390/rs17142475">Quantitative estimation of vegetation carbon source/sink and its response to climate variability and anthropogenic activities in Dongting Lake Wetland, China</a>, was published in Remote Sensing.</p>
       </article>
       <article class="timeline-item">
         <div class="timeline-date">2024.08</div>
-        <p>&nbsp;🎉🎉My <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR036893#main1">WRR paper</a> is now online. Click to view. Open source <a href="https://github.com/XunZhangSean/AEdiffuison_surrogate_DA_inversion">code</a></p>
+        <p>&nbsp;🎉🎉 Our paper <a href="https://doi.org/10.1029/2023WR036893">Integration of DDPM and ILUES for Simultaneous Identification of Contaminant Source Parameters and Non-Gaussian Channelized Hydraulic Conductivity Field</a> was published in Water Resources Research.</p>
       </article>
       <article class="timeline-item">
         <div class="timeline-date">2024.08</div>
@@ -58,6 +58,10 @@ header: false
       <article class="timeline-item">
         <div class="timeline-date">2024.08</div>
         <p>I participated in Tongji University Environmental Science & Engineering Summer School 2024.</p>
+        <div class="news-photo-pair">
+          <img src="{{ '/images/xun和A组的合照.jpg' | relative_url }}" alt="Xun Zhang with Group A at Tongji University Environmental Science and Engineering Summer School 2024" loading="lazy">
+          <img src="{{ '/images/xun和大家的合照.jpg' | relative_url }}" alt="Group photo at Tongji University Environmental Science and Engineering Summer School 2024" loading="lazy">
+        </div>
       </article>  
       <article class="timeline-item">
         <div class="timeline-date">2024.07</div>
@@ -69,7 +73,7 @@ header: false
       </article>
       <article class="timeline-item">
         <div class="timeline-date">2024.06</div>
-        <p>&nbsp;🎉🎉 My <a href="https://doi.org/10.1016/j.jhydrol.2024.131540">first paper</a> is now online. Click to view.</p>
+        <p>&nbsp;🎉🎉 Our paper <a href="https://doi.org/10.1016/j.jhydrol.2024.131540">Non-Gaussian Hydraulic Conductivity and Potential Contaminant Source Identification: A Comparison of Two Advanced DLPM-based Inversion Framework</a> was published in Journal of Hydrology.</p>
       </article>
       <article class="timeline-item">
         <div class="timeline-date">2023.07</div>

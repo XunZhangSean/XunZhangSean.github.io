@@ -313,6 +313,10 @@ h1:before, .anchor:before {
     .quick-links-grid {
         grid-template-columns: 1fr;
     }
+
+    .news-photo-pair {
+        grid-template-columns: 1fr;
+    }
 }
 
 .feature-figure {
@@ -488,6 +492,21 @@ h1:before, .anchor:before {
     font-weight: 700;
     color: #00369f;
     margin-bottom: .25rem;
+}
+
+.news-photo-pair {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: .75rem;
+    margin-top: .85rem;
+}
+
+.news-photo-pair img {
+    width: 100%;
+    height: auto;
+    border-radius: .5rem;
+    border: 1px solid rgba(0,0,0,.06);
+    box-shadow: 0 16px 30px -26px rgba(10,32,68,.6);
 }
 
 .publication-collection {
