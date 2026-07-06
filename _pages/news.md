@@ -58,10 +58,6 @@ header: false
       <article class="timeline-item">
         <div class="timeline-date">2024.08</div>
         <p>I participated in Tongji University Environmental Science & Engineering Summer School 2024.</p>
-        <div class="news-photo-pair">
-          <img src="{{ '/images/xun和A组的合照.jpg' | relative_url }}" alt="Xun Zhang with Group A at Tongji University Environmental Science and Engineering Summer School 2024" loading="lazy">
-          <img src="{{ '/images/xun和大家的合照.jpg' | relative_url }}" alt="Group photo at Tongji University Environmental Science and Engineering Summer School 2024" loading="lazy">
-        </div>
       </article>  
       <article class="timeline-item">
         <div class="timeline-date">2024.07</div>
@@ -70,6 +66,10 @@ header: false
       <article class="timeline-item">
         <div class="timeline-date">2024.06</div>
         <p>I participated in the Tongji University Summer School program "Climate Change and Global Governance - Exploring Norway and the Arctic," where I visited Svalbard island, Arctic! And I made many valuable friends and learned a lot of new knowledge about hydrology and the environment. Super joyful experience! Grateful for everyone I've met.😊</p>
+        <div class="news-photo-pair">
+          <img src="{{ '/images/xun和A组的合照.jpg' | relative_url }}" alt="Xun Zhang with Group A at the Tongji University Summer School program Climate Change and Global Governance" loading="lazy">
+          <img src="{{ '/images/xun和大家的合照.jpg' | relative_url }}" alt="Group photo at the Tongji University Summer School program Climate Change and Global Governance" loading="lazy">
+        </div>
       </article>
       <article class="timeline-item">
         <div class="timeline-date">2024.06</div>
