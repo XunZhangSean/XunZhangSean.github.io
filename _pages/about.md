@@ -86,7 +86,7 @@ redirect_from:
     </article>
     <article class="news-item">
       <div class="news-date">2025.12</div>
-      <p class="news-copy">I co-developed <strong>PIS</strong> with my collaborator Weijie Yang for broad physical parameter estimation. This work proposes a unified perspective for PDE-constrained parameter estimation problems: an end-to-end solver based on diffusion models. <a href="https://arxiv.org/abs/2512.13732">[View Paper]</a></p>
+      <p class="news-copy">I co-developed <strong>PIS</strong> with my collaborator Weijie Yang for broad physical parameter estimation. This work proposes a unified perspective for PDE-constrained parameter estimation problems: an end-to-end solver based on flow matching. <a href="https://arxiv.org/abs/2512.13732">[View Paper]</a></p>
     </article>
     <article class="news-item">
       <div class="news-date">2025.11</div>
