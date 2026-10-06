@@ -19,8 +19,9 @@ redirect_from:
 
 <section class="hero-panel about-hero">
   <h1>About Me</h1>
-  <p>Hello there! I am Xun (Sean) Zhang, an incoming Ph.D. student in the <a href="https://www.duffield.cornell.edu/cee/">School of Civil and Environmental Engineering</a> at Cornell University.</p>
+  <p>Hello there! I am Xun (Sean) Zhang, a first-year Ph.D. student in the <a href="https://www.duffield.cornell.edu/cee/">School of Civil and Environmental Engineering</a> at Cornell University.</p>
   <p>Before joining Cornell, I received my master's degree from the <a href="https://geohyd.tongji.edu.cn/index.htm">Department of Geological and Hydraulic Engineering, College of Civil Engineering</a> at <a href="https://www.tongji.edu.cn/">Tongji University</a> in June 2025. After graduation, I continued to work in the same department as a Research Assistant for one year. I earned my bachelor's degree in Hydraulic and Hydropower Engineering from the <a href="https://sjxy.nwsuaf.edu.cn/">College of Water Resources and Architectural Engineering</a> at <a href="https://www.nwafu.edu.cn/">Northwest A&amp;F University</a>. My academic training has shaped a broad interest in hydrogeology, hydrology, computational modeling, and data-driven methods.</p>
+  <p>I am currently participating in the <a href="https://dareproject.org/">DARE project</a>, which is developing a global time-series dataset of river systems under human influence from 1950 onward.</p>
   <p>I look forward to continuing my research at Cornell and welcome discussions, collaborations, and research opportunities.</p>
   <div class="hero-actions">
     <a class="highlight-chip" href="mailto:xz2237@cornell.edu">E-mail: xz2237@cornell.edu</a>
@@ -30,38 +31,26 @@ redirect_from:
 
 <section class="section-block about-interests">
   <h2>Current Research Interest</h2>
-  <p class="section-lede">I work around groundwater modelling, urban flooding, scientific machine learning, inverse problems, and data assimilation.</p>
-
-  <div class="interest-grid">
-    <section class="interest-block">
-      <h3>Method focus</h3>
-      <div class="interest-tags">
-        <span>Data assimilation</span>
-        <span>Inverse problems</span>
-        <span>Generative modelling</span>
-        <span>Surrogate modelling</span>
-        <span>Physics-informed learning</span>
-        <span>Uncertainty quantification</span>
-      </div>
-    </section>
-
-    <section class="interest-block">
-      <h3>Application focus</h3>
-      <div class="interest-tags">
-        <span>Groundwater contamination</span>
-        <span>Hydraulic conductivity fields</span>
-        <span>Groundwater level prediction</span>
-        <span>Urban flooding</span>
-        <span>Remote sensing</span>
-        <span>Environmental modelling</span>
-      </div>
-    </section>
-  </div>
+  <p class="section-lede">My current research interests focus on assessing how human interventions shape river systems. I am also interested in exploring innovative AI approaches to better represent human activities and characterize their impacts on rivers.</p>
 
   <details class="interest-details">
     <summary>Representative directions I have explored</summary>
-    <p><strong>Methods side</strong>: parameter estimation; interpolation and reconstruction; DDPM, VAE, GAN, and flow matching; reduced-order modelling; operator learning; transfer learning; reinforcement learning; graph learning; federated machine learning; causal inference; geostatistics; time-series forecasting models including ARIMA, XGBoost/LightGBM, GRU/LSTM/Transformer; interpretable machine learning such as SHAP and Grad-CAM; upscaling methods for geologic models; and coupled surface water-groundwater modelling.</p>
-    <p><strong>Applications side</strong>: groundwater contamination source identification and high-resolution characterization of hydraulic conductivity fields; groundwater well placement optimization; groundwater level prediction; urban flooding; computational fluid dynamics; atmospheric pollution modelling; seismic waveform inversion; structural health monitoring; inverse design of materials; battery state estimation; debris floods; inversion of groundwater storage from satellite gravimetry; image-based sediment detection; remote sensing for lake carbon sources and sinks; and Arctic sea ice.</p>
+    <div class="interest-grid">
+      <section class="interest-block">
+        <h3>Methods explored</h3>
+        <p><strong>Inverse problems and inference:</strong> data assimilation; parameter estimation; uncertainty quantification; interpolation and reconstruction; causal inference; and geostatistics.</p>
+        <p><strong>Generative and efficient modelling:</strong> generative models including DDPM, VAE, GAN, and flow matching; surrogate modelling; reduced-order modelling; and operator learning.</p>
+        <p><strong>Scientific machine learning:</strong> physics-informed learning; transfer learning; reinforcement learning; graph learning; federated machine learning; and interpretable machine learning using SHAP and Grad-CAM.</p>
+        <p><strong>Forecasting and process modelling:</strong> time-series forecasting with ARIMA, XGBoost/LightGBM, and GRU/LSTM/Transformer; upscaling methods for geologic models; and coupled surface water-groundwater modelling.</p>
+      </section>
+      <section class="interest-block">
+        <h3>Application areas</h3>
+        <p><strong>Groundwater modelling:</strong> groundwater contamination source identification; high-resolution characterization of hydraulic conductivity fields; groundwater well placement optimization; groundwater level prediction; and inversion of groundwater storage from satellite gravimetry.</p>
+        <p><strong>Hydrology and environmental modelling:</strong> urban flooding; debris floods; computational fluid dynamics; atmospheric pollution modelling; and Arctic sea ice.</p>
+        <p><strong>Remote sensing and image analysis:</strong> image-based sediment detection and remote sensing for lake carbon sources and sinks.</p>
+        <p><strong>Other physical and engineering systems:</strong> seismic waveform inversion; structural health monitoring; inverse design of materials; and battery state estimation.</p>
+      </section>
+    </div>
   </details>
 
 </section>
