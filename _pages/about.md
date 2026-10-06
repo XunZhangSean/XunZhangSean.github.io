@@ -25,7 +25,6 @@ redirect_from:
   <p>I look forward to continuing my research at Cornell and welcome discussions, collaborations, and research opportunities.</p>
   <div class="hero-actions">
     <a class="highlight-chip" href="mailto:xz2237@cornell.edu">E-mail: xz2237@cornell.edu</a>
-    <span class="highlight-chip highlight-chip--soft">Open to collaboration</span>
   </div>
 </section>
 
