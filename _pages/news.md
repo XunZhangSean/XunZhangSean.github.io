@@ -10,6 +10,14 @@ header: false
     <h2>🔥 Latest Updates</h2>
     <div class="news-timeline">
       <article class="timeline-item">
+        <div class="timeline-date">2026.10.27</div>
+        <p>🎉 My first-author paper, Diffusion-Inversion-Net (DIN): An End-to-End Direct Probabilistic Framework for Characterizing Hydraulic Conductivities and Quantifying Uncertainty, has been accepted by <em>Journal of Hydrology</em>!</p>
+      </article>
+      <article class="timeline-item">
+        <div class="timeline-date">2026.10.22</div>
+        <p>🎉 Our collaborative paper, <a href="https://doi.org/10.1016/j.geomorph.2026.110584">Field characteristics and initiation mechanisms of debris floods: Insights from western Beijing, China</a>, with <strong>Bo Zhang</strong> from Tongji University and Germany's Helmholtz Centre for Geosciences, has been accepted by <strong><em>Geomorphology</em></strong>!</p>
+      </article>
+      <article class="timeline-item">
         <div class="timeline-date">2026.06.03</div>
         <p>I was awarded a Cornell Fellowship by the Field of Civil and Environmental Engineering at Cornell University！</p>
       </article>

@@ -1,0 +1,19 @@
+{
+  "previewOnly": false,
+  "sourceMode": "official",
+  "homepageNewsLimit": 3,
+  "baselineSha256": {
+    "_pages\\publications.md": "b2d6e691b65b511742a77883c7ce0d94d1beb482a70b53a20847eeba81340a7b",
+    "_pages\\news.md": "4c56e3b2f651bc058a7b86e744a8971d9185c9c39a98828aa9738ac7995b92b5",
+    "_pages\\failure-cv.md": "d1d0b22bb8b2c47ea87d616f01a6bf2f428c76a0ae146616a032f20992612925",
+    "_pages\\about.md": "9955e266ae1bd1fddb1998caa910593e961aa206b7e2530ee204b9c92974ec0b"
+  },
+  "changes": [
+    "DIN accepted 27 October 2026; retain the arXiv link, without a DOI",
+    "Geomorphology accepted 22 October 2026; update the final title and DOI",
+    "Add the two acceptance announcements to News and the homepage news feed",
+    "One additional 2026 Journal of Hydrology rejection: x1 to x2",
+    "Homepage automatically renders the first three News entries",
+    "Last updated: October 28, 2026"
+  ]
+}

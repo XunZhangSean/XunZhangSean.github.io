@@ -1,0 +1,15 @@
+{%- comment -%}
+Use the first three entries from the News page, preserving their order and markup.
+{%- endcomment -%}
+{%- assign news_entries = include.content | split: '<article class="timeline-item">' -%}
+{%- for news_entry in news_entries offset:1 limit:3 -%}
+  {%- assign entry = news_entry | split: '</article>' | first -%}
+  {%- assign date_block = entry | split: '</div>' | first -%}
+  {%- assign news_date = date_block | strip_html | strip -%}
+  {%- assign date_block = date_block | append: '</div>' -%}
+  {%- assign news_body = entry | remove_first: date_block | replace_first: '<p>', '<p class="news-copy">' -%}
+  <article class="news-item">
+    <div class="news-date">{{ news_date }}</div>
+    <div>{{ news_body }}</div>
+  </article>
+{%- endfor -%}

@@ -68,26 +68,8 @@ redirect_from:
     <a class="all-news-link" href="{{ '/news/' | relative_url }}">All News</a>
   </div>
   <div class="news-list">
-    <article class="news-item">
-      <div class="news-date">2026.06.03</div>
-      <p class="news-copy">I was awarded a Cornell Fellowship by the Field of Civil and Environmental Engineering at Cornell University！</p>
-    </article>
-    <article class="news-item">
-      <div class="news-date">2025.12</div>
-      <p class="news-copy">I co-developed <strong>PIS</strong> with my collaborator Weijie Yang for broad physical parameter estimation. This work proposes a unified perspective for PDE-constrained parameter estimation problems: an end-to-end solver based on flow matching. <a href="https://arxiv.org/abs/2512.13732">[View Paper]</a></p>
-    </article>
-    <article class="news-item">
-      <div class="news-date">2025.11</div>
-      <div>
-        <p class="news-copy">I developed <strong>Diffusion-Inversion-Net (DIN)</strong>: An End-to-End Direct Probabilistic Framework for Characterizing Hydraulic Conductivities and Quantifying Uncertainty.<br>Open source code: <a href="https://github.com/XunZhangSean/Diffusion-Inversion-Net">XunZhangSean/Diffusion-Inversion-Net</a>.</p>
-        <details class="news-note">
-          <summary>👇 Read the story behind this research (Research Note)</summary>
-          <p>This is an idea I initially conceived two years ago when I was first introduced to data assimilation and generative models. This study leverages the iterative denoising advantage and probabilistic generation characteristics of diffusion models to build an end-to-end inversion solver for the fine-scale characterization of groundwater contamination sites. There are still imperfections in the paper that need to be addressed in the future.</p>
-          <p>I sincerely thank my collaborator, <strong>Weijie Yang</strong> from University of California, Berkeley/J.P. Morgan, for completing this "dream work" with me, and I also extend my gratitude to Prof. Jiang and Prof. Zhang for their guidance.</p>
-          <p><em>A personal reflection:</em> I actually felt a "small disappointment" after finishing this. The findings differed from my intuition two years ago. I initially hoped that the Diffusion model could theoretically prove its equivalence with Data Assimilation. However, while the iterative update in the Kalman Filter and the conditional iterative denoising in Diffusion models are intuitively similar (both embodying the idea of Bayesian correction), there seems to be no direct mathematical link. The Kalman Filter corrects predictions via new observations; Diffusion models correct sampling trajectories via predicted noise. Although I couldn't bridge this gap, I hope future theorists might connect them—that would be fascinating!</p>
-        </details>
-      </div>
-    </article>
+    {% capture homepage_news_source %}{% include_relative news.md %}{% endcapture %}
+    {% include latest-news.html content=homepage_news_source %}
   </div>
-  <p class="site-updated">Last updated: June 30, 2026</p>
+  <p class="site-updated">Last updated: October 28, 2026</p>
 </section>

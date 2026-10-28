@@ -24,18 +24,18 @@ header: false
       <article class="publication-card">
         <p>[4] J. Wei, S. Jiang*, Q. Liu, <strong>X. Zhang</strong>, N. Zheng, J. Xing, Toward Closed-Loop Remediation: A Dynamic Optimization Approach for Hydraulic Conductivity Estimation and Pump-and-Treat Design, <strong><em>Journal of Contaminant Hydrology</em></strong>, 2026, <a href="https://doi.org/10.1016/j.jconhyd.2026.104852">https://doi.org/10.1016/j.jconhyd.2026.104852</a>.</p>
       </article>
+      <article class="publication-card">
+        <p>[5] <strong>X. Zhang</strong>, W. Yang, J. Zhang, S. Jiang*, Diffusion-Inversion-Net (DIN): An End-to-End Direct Probabilistic Framework for Characterizing Hydraulic Conductivities and Quantifying Uncertainty, <strong><em>Journal of Hydrology</em></strong>, Accepted, 2026, <a href="https://arxiv.org/abs/2511.16926">https://arxiv.org/abs/2511.16926</a>.</p>
+      </article>
+      <article class="publication-card">
+        <p>[6] B. Zhang, F. Wang*, <strong>X. Zhang</strong>, Field characteristics and initiation mechanisms of debris floods: Insights from western Beijing, China, <strong><em>Geomorphology</em></strong>, Accepted, 2026, <a href="https://doi.org/10.1016/j.geomorph.2026.110584">https://doi.org/10.1016/j.geomorph.2026.110584</a>.</p>
+      </article>
     </div>
 
     <h3>Preprints</h3>
     <div class="publication-collection">
       <article class="publication-card">
-        <p>[5] <strong>X. Zhang</strong>, W. Yang, J. Zhang, S. Jiang*, Diffusion-Inversion-Net (DIN): An End-to-End Direct Probabilistic Framework for Characterizing Hydraulic Conductivities and Quantifying Uncertainty, <strong><em>Journal of Hydrology</em></strong>, Under Review, 2025, <a href="https://arxiv.org/abs/2511.16926">https://arxiv.org/abs/2511.16926</a>.</p>
-      </article>
-      <article class="publication-card">
-        <p>[6] W. Yang, <strong>X. Zhang</strong>*, S. Jiang*, PIS: A Generalized Physical Inversion Solver for Arbitrary Sparse Observations via Set Conditioned Flow Matching, Submitted to <strong><em>Knowledge-Based Systems</em></strong>, 2026, <a href="https://arxiv.org/abs/2512.13732">https://arxiv.org/abs/2512.13732</a>.</p>
-      </article>
-      <article class="publication-card">
-        <p>[7] B. Zhang, F. Wang*, <strong>X. Zhang</strong>, From flood to debris flood: Initial and cascading destabilization of sediment as critical mechanisms, Submitted to <strong><em>Geomorphology</em></strong>, 2025, <a href="https://doi.org/10.2139/ssrn.5415435">https://doi.org/10.2139/ssrn.5415435</a>.</p>
+        <p>[7] W. Yang, <strong>X. Zhang</strong>*, S. Jiang*, PIS: A Generalized Physical Inversion Solver for Arbitrary Sparse Observations via Set Conditioned Flow Matching, Submitted to <strong><em>Knowledge-Based Systems</em></strong>, 2026, <a href="https://arxiv.org/abs/2512.13732">https://arxiv.org/abs/2512.13732</a>.</p>
       </article>
     </div>
 
