@@ -45,6 +45,8 @@ header: false
       <ul>
         <li>2025, Geophysical Research Letters ×1.</li>
         <li>2026, International Conference on Machine Learning (ICML) ×1.</li>
+        <li>2026, Conference on Neural Information Processing Systems (NeurIPS) ×1.</li>
+        <li>2026, International Conference on Learning Representations (ICLR) ×1.</li>
         <li>2026, Journal of Hydrology ×2.</li>
       </ul>
     </section>

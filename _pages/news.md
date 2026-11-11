@@ -11,7 +11,7 @@ header: false
     <div class="news-timeline">
       <article class="timeline-item">
         <div class="timeline-date">2026.10.27</div>
-        <p>🎉 My first-author paper, Diffusion-Inversion-Net (DIN): An End-to-End Direct Probabilistic Framework for Characterizing Hydraulic Conductivities and Quantifying Uncertainty, has been accepted by <em>Journal of Hydrology</em>!</p>
+        <p>🎉 My first-author paper, <a href="https://doi.org/10.1016/j.jhydrol.2026.136697">Diffusion-Inversion-Net (DIN): An End-to-End Direct Probabilistic Framework for Characterizing Hydraulic Conductivities and Quantifying Uncertainty</a>, has been accepted by <strong><em>Journal of Hydrology</em></strong>!</p>
       </article>
       <article class="timeline-item">
         <div class="timeline-date">2026.10.22</div>
